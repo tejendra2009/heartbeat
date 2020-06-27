@@ -1,0 +1,12 @@
+
+gsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ßÁûƒýÿÿÿÿ
+isquid:S1192P"MDefine a constant instead of duplicating this literal "fragment_tag" 3 times.(Æù‰÷ýÿÿÿÿ
+Gsquid:S1068"+Remove this unused "toolbar" private field.(”ü®‡ùÿÿÿÿ
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÆñÀˆúÿÿÿÿ
+gsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(µŠÿùüÿÿÿÿ
+Tsquid:S1905F"7Remove this unnecessary cast to "BottomNavigationView".(ò¯¹G8û°íÌ°-
+gsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(´®ë¬þÿÿÿÿ
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8ëÊ´˜¯-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×ûÖÒýÿÿÿÿ
+gsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(›’‘Ãÿÿÿÿÿ

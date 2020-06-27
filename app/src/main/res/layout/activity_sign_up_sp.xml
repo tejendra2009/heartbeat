@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background_signup"
+
+    tools:context=".Landing">
+
+
+    <ImageView
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/label_refferal"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.166"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.262" />
+    <ImageView
+        android:layout_width="@dimen/_190sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/ortext"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.47" />
+
+    <Button
+        android:id="@+id/buttonfb"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/buttonsocial"
+        android:baselineAligned="false"
+        android:enabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.397" />
+
+    <EditText
+        android:id="@+id/edittextrefferalfb"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/inputfield_image_profile"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@android:color/white"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+android:fontFamily="@font/oppo2019044a070"
+
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.307" />
+
+    <ImageView
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/label_name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.129"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.509" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/inputfield_image_profile"
+        android:ems="10"
+        android:fontFamily="@font/oppo2019044a070"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.547" />
+
+    <ImageView
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/label_refferal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.166"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.856" />
+
+    <EditText
+        android:id="@+id/refferal_code"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/inputfield_image_profile"
+        android:ems="10"
+        android:fontFamily="@font/oppo2019044a070"
+        android:inputType="text"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.889" />
+
+    <ImageView
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/label_password"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.183"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.689" />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/inputfield_image_profile"
+        android:ems="10"
+        android:fontFamily="@font/oppo2019044a070"
+        android:inputType="textWebPassword"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.724" />
+
+    <ImageView
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/label_cpassowrd"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.270"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.774" />
+
+    <EditText
+        android:id="@+id/editTextCPassword"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/inputfield_image_profile"
+        android:ems="10"
+        android:fontFamily="@font/oppo2019044a070"
+        android:inputType="textWebPassword"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@android:color/white"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.807" />
+
+
+    <ImageView
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/label_email"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.129"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.597" />
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:autofillHints=""
+        android:background="@mipmap/inputfield_image_profile"
+
+        android:fontFamily="@font/oppo2019044a070"
+
+        android:imeActionLabel="@string/action_sign_in_short"
+        android:imeOptions="actionDone"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:selectAllOnFocus="true"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.624" />
+
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/button_signup"
+        android:baselineAligned="false"
+        android:enabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.955" />
+
+
+    <Button
+        android:id="@+id/disclaimer"
+        android:layout_width="70dp"
+        android:layout_height="10dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/disclaimer_button"
+        android:baselineAligned="false"
+        android:enabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.98" />
+
+    <ProgressBar
+        android:id="@+id/loading"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="200dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center_horizontal"
+
+
+        android:layout_marginTop="680dp"
+        android:layout_marginEnd="56dp"
+        android:background="@color/white"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/refferal_code"
+        app:layout_constraintStart_toStartOf="@+id/password"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

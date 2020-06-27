@@ -1,0 +1,40 @@
+
+ksquid:HiddenFieldCheck™"<Rename "userInfo" which hides the field declared at line 43.(—°……şÿÿÿÿ8ÎúÜŒ°-
+osquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(ï÷ğ¡ûÿÿÿÿ8’¾É“¯-
+:squid:S1659-"#Declare "email" on a separate line.(¢€¨„
+>squid:S1659-"'Declare "password2" on a separate line.(¢€¨„
+osquid:S1450/"QRemove the "fb" field and declare it as a local variable in the relevant methods.(ìåì”8…öÄŒ°-
+asquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ô²Ã
+jsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(éÜì8ÎúÜŒ°-
+osquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(îÔÉ‡úÿÿÿÿ8ÎúÜŒ°-
+<squid:S1659-"%Declare "surName" on a separate line.(¢€¨„
+Fsquid:S1659/"(Declare "disclaimer" on a separate line.(ìåì”8Ó§Å“¯-
+jsquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(¬‘ÄË8’¾É“¯-
+nsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(îÔÉ‡úÿÿÿÿ8©ÉÎù¯-
+Ssquid:S1481Q"0Remove this unused "loginButton" local variable.(Íã¶×şÿÿÿÿ8ßıÃŒ°-
+bsquid:S1854Q"?Remove this useless assignment to local variable "loginButton".(Íã¶×şÿÿÿÿ8ßıÃŒ°-
+`squid:S1854’"<Remove this useless assignment to local variable "response".(«œÛÅıÿÿÿÿ8ÎúÜŒ°-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÜÊ‡úÿÿÿÿ8ÖÕÊŒ°-
+Dsquid:S1659,"-Declare "editTextSurname" on a separate line.(­úê 
+isquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(à»«¤8ùÉŠ°-
+isquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(‹œã÷8öúã°-
+psquid:S00116,"XRename this field "refferal_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­úê 
+isquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(éÜì8’¾É“¯-
+nsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(÷†úÿÿÿÿ8’¾É“¯-
+Bsquid:S1659,"+Declare "editTextEmail" on a separate line.(­úê 
+9squid:S1659-""Declare "city" on a separate line.(¢€¨„
+wsquid:S1450/"YRemove the "disclaimer" field and declare it as a local variable in the relevant methods.(ìåì”8æªÇ“¯-
+Bsquid:S1659,"+Declare "refferal_code" on a separate line.(­úê 
+Qsquid:S1481’"-Remove this unused "response" local variable.(«œÛÅıÿÿÿÿ8ÎúÜŒ°-
+rsquid:UselessImportCheck"BRemove this unused import 'com.google.firebase.auth.FirebaseUser'.(’àíĞùÿÿÿÿ8½¦ °-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷†úÿÿÿÿ8ÎúÜŒ°-
+>squid:S1659/" Declare "fb" on a separate line.(ìåì”8…öÄŒ°-
+csquid:HiddenFieldCheck–"9Rename "email" which hides the field declared at line 45.(æğ»8ÎúÜŒ°-
+jsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(Ğ–†™8’¾É“¯-
+Asquid:S1659-"*Declare "refferalcode" on a separate line.(¢€¨„
+gsquid:HiddenFieldCheck—"8Rename "name" which hides the field declared at line 45.(çıºıÿÿÿÿ8ÎúÜŒ°-
+=squid:S1659-"&Declare "password" on a separate line.(¢€¨„
+Esquid:S1659,".Declare "editTextPassword" on a separate line.(­úê 
+Fsquid:S1659,"/Declare "editTextPassword2" on a separate line.(­úê 
+nsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(ñ»°­şÿÿÿÿ8’¾É“¯-
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(¦é¤îúÿÿÿÿ8ÕÅõŒ°-

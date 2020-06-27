@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background_login"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".ui.login.LoginActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_44sdp"
+        android:layout_gravity="center_horizontal"
+
+        android:src="@mipmap/label_refferal"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.139"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.231" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="270dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_horizontal"
+
+        android:src="@mipmap/ortext"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.471" />
+
+
+    <Button
+        android:id="@+id/buttonfb"
+        android:layout_width="@dimen/_205sdp"
+        android:layout_height="@dimen/_28sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/buttonsocial"
+        android:baselineAligned="false"
+
+        android:enabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.513"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.375" />
+
+    <EditText
+        android:id="@+id/edittextrefferalfb"
+        android:layout_width="@dimen/_205sdp"
+        android:layout_height="@dimen/_28sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/inputfield_image_profile"
+        android:ems="10"
+        android:fontFamily="@font/oppo2019044a070"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@android:color/white"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.291" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_44sdp"
+        android:layout_gravity="center"
+
+        android:src="@mipmap/label_email"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.518" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="@dimen/_205sdp"
+        android:layout_height="@dimen/_28sdp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="48dp"
+        android:layout_marginEnd="48dp"
+        android:background="@mipmap/inputfield_image_profile"
+        android:fontFamily="@font/oppo2019044a070"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:selectAllOnFocus="true"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.569" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_44sdp"
+        android:layout_gravity="center"
+        android:src="@mipmap/label_password"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.164"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.643" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="@dimen/_205sdp"
+        android:layout_height="@dimen/_28sdp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="48dp"
+        android:autofillHints=""
+        android:background="@mipmap/inputfield_image_profile"
+        android:fontFamily="@font/oppo2019044a070"
+        android:imeActionLabel="@string/action_sign_in_short"
+        android:imeOptions="actionDone"
+        android:inputType="textWebPassword"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:selectAllOnFocus="true"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.479"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.686" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="@dimen/_205sdp"
+        android:layout_height="@dimen/_28sdp"
+        android:layout_gravity="center_horizontal"
+
+
+        android:layout_marginBottom="@dimen/_90sdp"
+        android:background="@mipmap/button_login"
+        android:enabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <ProgressBar
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="64dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/password"
+        app:layout_constraintStart_toStartOf="@+id/password"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3" />
+
+
+    <Button
+        android:id="@+id/forgotpassword"
+        android:layout_width="102dp"
+        android:layout_height="16dp"
+        android:layout_gravity="center_horizontal"
+
+        android:layout_marginStart="48dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="60dp"
+        android:background="@mipmap/forgotpassword"
+        android:enabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>

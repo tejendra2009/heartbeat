@@ -1,0 +1,16 @@
+
+Gsquid:S1068%"0Remove this unused "mContentView" private field.(ðÚ³ë
+nsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(²ã­×þÿÿÿÿ8ˆÜÝºµ-
+Csquid:S1068)",Remove this unused "mVisible" private field.(©œ€ñ
+nsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(áíú•ùÿÿÿÿ8•žÎºµ-
+isquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(±ÞÖ¯8•»Ýºµ-
+isquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(±ÞÖ¯8Œ÷Üºµ-
+nsquid:S1450)"WRemove the "mVisible" field and declare it as a local variable in the relevant methods.(©œ€ñ
+Vsquid:S1068":Remove this unused "AUTO_HIDE_DELAY_MILLIS" private field.(Æîå¼üÿÿÿÿ
+Fsquid:S1185_"(Remove this method to simply inherit it.(Ù«µ§8•»Ýºµ-
+asquid:UselessImportCheck"6Remove this unused import 'android.media.MediaPlayer'.(Ýã¦8”ø—ºµ-
+Msquid:S1068#"6Remove this unused "UI_ANIMATION_DELAY" private field.(é˜æç
+Fsquid:S1185l"(Remove this method to simply inherit it.(¦°ªö8Œ÷Üºµ-
+Dsquid:S1068"-Remove this unused "AUTO_HIDE" private field.(‚Øÿ
+nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(óðäæûÿÿÿÿ8¸¥Ýºµ-
+Msquid:S1068'"1Remove this unused "mControlsView" private field.(‡ð¡Üüÿÿÿÿ

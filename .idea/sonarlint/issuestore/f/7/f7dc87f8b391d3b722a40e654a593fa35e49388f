@@ -1,0 +1,5 @@
+
+_squid:S1126"AReplace this if-then-else statement by a single return statement.(áÂ¾õ8Ÿ¶äý¯-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8‡„£ô®-
+isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(­‰ã8ô×Úý®-
+Asquid:S1148""#Use a logger to log this exception.(þ•§Ô8ô×Úý®-

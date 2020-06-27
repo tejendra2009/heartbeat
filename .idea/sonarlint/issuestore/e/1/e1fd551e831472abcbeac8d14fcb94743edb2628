@@ -1,0 +1,10 @@
+
+Vsquid:S1068":Remove this unused "AUTO_HIDE_DELAY_MILLIS" private field.(Æîå¼üÿÿÿÿ
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(©Æ­ˆ8¦Áºµ-
+\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ýÿÿÿÿ8æÿÌºµ-
+Gsquid:S1068""0Remove this unused "mContentView" private field.(ðÚ³ë
+Msquid:S1068$"1Remove this unused "mControlsView" private field.(‡ð¡Üüÿÿÿÿ
+Csquid:S1068&",Remove this unused "mVisible" private field.(©œ€ñ
+nsquid:S1450&"WRemove the "mVisible" field and declare it as a local variable in the relevant methods.(©œ€ñ
+Dsquid:S1068"-Remove this unused "AUTO_HIDE" private field.(‚Øÿ
+Msquid:S1068 "6Remove this unused "UI_ANIMATION_DELAY" private field.(é˜æç

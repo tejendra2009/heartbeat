@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KakaCircularCounter">
+        <attr name="clockRadius" format="dimension"/>
+        <attr name="clockBackground" format="color"/>
+        <attr name="clockWidth" format="dimension"/>
+        <attr name="edgeBackground" format="color"/>
+        <attr name="edgeWidth" format="dimension"/>
+        <attr name="edgeHeadRadius" format="dimension"/>
+        <attr name="textInsideSize" format="dimension"/>
+        <attr name="textInsideColor" format="color"/>
+        <attr name="countFrom" format="enum">
+            <enum name="ZERO" value="0"/>
+            <enum name="MAXIMUM" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@android:color/transparent"
+
+        android:title="@string/title_blank" />
+
+    <item
+        android:id="@+id/navigation_heart"
+        android:icon="@android:color/transparent"
+        android:title="@string/title_blank" />
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@android:color/transparent"
+        android:title="@string/title_blank" />
+
+    <item
+        android:id="@+id/navigation_leaderboard"
+        android:icon="@android:color/transparent"
+        android:title="@string/title_blank" />
+
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@android:color/transparent"
+        android:title="@string/title_blank" />
+
+</menu>

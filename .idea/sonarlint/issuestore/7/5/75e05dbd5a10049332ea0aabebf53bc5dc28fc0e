@@ -1,0 +1,9 @@
+
+zsquid:S1450'"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ8¹åÍÿ¬-
+osquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Ï”Ãüÿÿÿÿ8µñï®­-
+Dsquid:S1172*"&Remove these unused method parameters.(Œ­Îü8¹åÍÿ¬-
+isquid:S1858J"K"response" is already a string, there's no need to call "toString()" on it.(ÑæÊ…8ÿÄþ©®-
+Asquid:S1148‚"#Use a logger to log this exception.(ˆñA8“¥Åÿ¬-
+Fsquid:S11852"(Remove this method to simply inherit it.(ßìê¯8¹åÍÿ¬-
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(¦ª¼Ò8¹åÍÿ¬-
+nsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(—Ô…¸ÿÿÿÿÿ8½‘„­-

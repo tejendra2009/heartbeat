@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F3745</color>
+    <color name="colorPrimaryDark">#FF4081</color>
+    <color name="colorAccent">#0F3745</color>
+    <color name="orange">#FF9934</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#fafafa</color>
+    <color name="green">#a3c639</color>
+    <color name="dark_green">#85a71d</color>
+    <color name="yellow">#ff0</color>
+    <color name="gray">#ccc</color>
+    <color name="pink">#e91e63</color>
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+</resources>

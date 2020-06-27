@@ -1,0 +1,4 @@
+
+Gsquid:S1481")Remove this unused "auth" local variable.(çÌÈ“8ãÂ“°-
+Vsquid:S1854"8Remove this useless assignment to local variable "auth".(çÌÈ“8Üƒ”°-
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(û€Ì›ùÿÿÿÿ

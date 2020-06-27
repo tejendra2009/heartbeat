@@ -1,0 +1,9 @@
+
+asquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(ÿςε:
+U"squid:SwitchLastCaseIsDefaultCheckH""Add a default case to this switch.(Χ“Ύρωÿÿÿÿ
+gsquid:S1301H"KReplace this "switch" statement by "if" statements to increase readability.(Χ“Ύρωÿÿÿÿ
+Nsquid:S1153"1Directly append the argument of String.valueOf().(”Ί¥Ύϋÿÿÿÿ
+?squid:S1185*"(Remove this method to simply inherit it.(ίμκ―
+Bsquid:S1172""&Remove these unused method parameters.(ϊ¨βύÿÿÿÿ
+asquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(έ¥—^
+Usquid:S1155c">Use isEmpty() to check whether the collection is empty or not.(δόΜι

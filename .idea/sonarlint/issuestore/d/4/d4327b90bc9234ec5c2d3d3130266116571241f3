@@ -1,0 +1,11 @@
+
+Isquid:S11720"&Remove these unused method parameters.(Þëà¥üÿÿÿÿ8Þõ÷à¬-
+nsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(üéà„úÿÿÿÿ8îÔ™‚¯-
+csquid:HiddenFieldCheck}"5Rename "i" which hides the field declared at line 42.(¯ñêùÿÿÿÿ8„¿ªˆ­-
+Fsquid:S11858"(Remove this method to simply inherit it.(ßìê¯8Þõ÷à¬-
+jsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(¢¬¶8ð×ï•±-
+Lsquid:S1068"".Remove this unused "PROJECTION" private field.(§Õ¹“8â†ôó¬-
+Ksquid:S1172u"(Remove this unused method parameter "v".(…‚¶çûÿÿÿÿ8„¿ªˆ­-
+vsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ›ŽÄýÿÿÿÿ8Ë™É£°-
+isquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(²à®¨8Þõ÷à¬-
+isquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(Üˆù¿8Ø§™‚¯-

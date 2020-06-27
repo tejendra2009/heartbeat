@@ -1,0 +1,52 @@
+
+nsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ÏÞÖ­ýÿÿÿÿ8²©©Ì°-
+Ssquid:S1481—"/Remove this unused "parameters" local variable.(­øüÂøÿÿÿÿ8²©©Ì°-
+~squid:S00115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹Äˆýÿÿÿÿ8²©©Ì°-
+Gsquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8²©©Ì°-
+jsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(Èæ½¡8µËøö°-
+Dsquid:S1068"&Remove this unused "SH" private field.(ªÁý©8²©©Ì°-
+[squid:S1854"<Remove this useless assignment to local variable "beatsAvg".(¸Öºê8²©©Ì°-
+Usquid:S2696ì"6Make the enclosing method "static" or remove this set.(Ú÷Æ8²©©Ì°-
+Zsquid:S2696ê"6Make the enclosing method "static" or remove this set.(øìûÿÿÿÿ8ä€€™¯-
+>squid:S1659" Declare "SW" on a separate line.(ªÁý©8²©©Ì°-
+Nsquid:S2696ë"6Make the enclosing method "static" or remove this set.(Š—±Ó
+ysquid:S00115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å›Ä½8²©©Ì°-
+Dsquid:S1068"&Remove this unused "SW" private field.(ªÁý©8²©©Ì°-
+Ysquid:S2696H"6Make the enclosing method "static" or remove this set.(´ÎÕçøÿÿÿÿ8²©©Ì°-
+esquid:S00116"MRename this field "SH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÁý©
+osquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(·¢èàÿÿÿÿÿ8²©©Ì°-
+jsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(Èæ½¡8ý³÷°-
+Usquid:S2696ð"6Make the enclosing method "static" or remove this set.(Ù®Ð†8²©©Ì°-
+Tsquid:S2696r"6Make the enclosing method "static" or remove this set.(§µ¤«8²©©Ì°-
+ˆ"squid:ClassVariableVisibilityCheck$"SMake context a static final constant or non-public and provide accessors if needed.(Òò®­8²©©Ì°-
+hsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(°éæ_8²©©Ì°-
+Usquid:S2696ú"6Make the enclosing method "static" or remove this set.(§µ¤«8’ð¬£°-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜…¼ò8²©©Ì°-
+\squid:S1854?"9Remove this useless assignment to local variable "heart".(úß¶«üÿÿÿÿ8²©©Ì°-
+Rsquid:EmptyStatementUsageCheck3"Remove this empty statement.(ôŸŽìúÿÿÿÿ8²©©Ì°-
+osquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(”Å‡¯ùÿÿÿÿ8²©©Ì°-
+Zsquid:S2696û"6Make the enclosing method "static" or remove this set.(äÃ´úþÿÿÿÿ8²©©Ì°-
+osquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(Å°”æúÿÿÿÿ8²©©Ì°-
+bsquid:S1854—">Remove this useless assignment to local variable "parameters".(­øüÂøÿÿÿÿ8²©©Ì°-
+Msquid:S1481?"*Remove this unused "heart" local variable.(úß¶«üÿÿÿÿ8²©©Ì°-
+Zsquid:S2696…"6Make the enclosing method "static" or remove this set.(‰’ÌÖùÿÿÿÿ8²©©Ì°-
+Zsquid:S2696ƒ"6Make the enclosing method "static" or remove this set.(‹ùçÇýÿÿÿÿ8’ð¬£°-
+Zsquid:S2696â"6Make the enclosing method "static" or remove this set.(žšï¬ùÿÿÿÿ8²©©Ì°-
+esquid:S2142¼"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8²©©Ì°-
+Zsquid:S2696„"6Make the enclosing method "static" or remove this set.(‡•‰Ñýÿÿÿÿ8’ð¬£°-
+osquid:CommentedOutCodeLineý"<This block of commented-out lines of code should be removed.(Ú¶þ°ÿÿÿÿÿ8—ÿ”Î°-
+tsquid:S00116"VRename this field "SurfaceView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÑËk8²©©Ì°-
+X"squid:SwitchLastCaseIsDefaultCheckž""Add a default case to this switch.(¾¤Ÿå8²©©Ì°-
+Nsquid:S2696™"6Make the enclosing method "static" or remove this set.(§µ¤«
+Lsquid:S1481"-Remove this unused "beatsAvg" local variable.(¸Öºê8²©©Ì°-
+"squid:ClassVariableVisibilityCheck"SMake mCamera a static final constant or non-public and provide accessors if needed.(ð‘«•úÿÿÿÿ8²©©Ì°-
+osquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(óÜÆ•üÿÿÿÿ8²©©Ì°-
+Ksquid:S1444$"-Make this "public static context" field final(Òò®­8²©©Ì°-
+Zsquid:S2696š"6Make the enclosing method "static" or remove this set.(äÃ´úþÿÿÿÿ8²©©Ì°-
+Fsquid:S1068%"(Remove this unused "loop" private field.(£¾§„8²©©Ì°-
+osquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(þòš¦úÿÿÿÿ8²©©Ì°-
+bsquid:S3518"CMake sure "beatsArrayCnt" can't be zero before doing this division.(¸Öºê8²©©Ì°-
+lsquid:S00116"MRename this field "SW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÁý©8²©©Ì°-
+Gsquid:S1148½"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8²©©Ì°-
+usquid:S00116"XRename this field "SurfaceHolder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÅœÙùÿÿÿÿ
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ú²Ôƒÿÿÿÿÿ8²©©Ì°-

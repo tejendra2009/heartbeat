@@ -1,0 +1,11 @@
+
+|squid:S00116$"XRename this field "refferal_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÐœàùÿÿÿÿ8‡¥ÕŒ°-
+Fsquid:S1659%"#Declare "share" on a separate line.(¿éÉíýÿÿÿÿ8‡¥ÕŒ°-
+Nsquid:S1659$"+Declare "refferal_code" on a separate line.(ÄÐœàùÿÿÿÿ8‡¥ÕŒ°-
+Fsquid:S11855"(Remove this method to simply inherit it.(ßìê¯8‡¥ÕŒ°-
+nsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(þ†íÑúÿÿÿÿ8ì˜ú°-
+‚squid:S00116&"^Rename this field "refferal_code_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ›ŽÄýÿÿÿÿ8øÈƒ–¯-
+isquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(ð¨€™8‡˜Â£°-
+Esquid:S1659$""Declare "name" on a separate line.(ÄÐœàùÿÿÿÿ8‡¥ÕŒ°-
+Dsquid:S1659%"!Declare "tnc" on a separate line.(¿éÉíýÿÿÿÿ8‡¥ÕŒ°-
+Isquid:S1172-"&Remove these unused method parameters.(ï¸´×ÿÿÿÿÿ8‡¥ÕŒ°-
